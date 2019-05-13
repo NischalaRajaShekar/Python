@@ -1,5 +1,4 @@
 #Move duplicates to the end of list
-
 def moveDuplicates(arr):
     arr.sort()
     num_list = []
