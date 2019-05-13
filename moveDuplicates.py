@@ -11,5 +11,6 @@ def moveDuplicates(arr):
             dup_list.append(num)
     return num_list+dup_list
 
+#driver program
 arr = [3,6,2,8,4,6,2,2,1,3]
 print (moveDuplicates(arr))
